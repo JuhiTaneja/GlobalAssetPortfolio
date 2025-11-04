@@ -57,7 +57,7 @@ The project integrates **Python**, **MySQL**, and **Power BI** for a complete an
  
 Interested in Data Analytics, Financial Modelling, and Visualization.  
 
-[linkedin.com/in/juhi-taneja]
+[www.linkedin.com/in/juhi-taneja]
 
 ---
 
