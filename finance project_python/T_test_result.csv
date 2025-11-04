@@ -1,0 +1,6 @@
+Asset1,Asset2,T Statistic,P Value,significant(p<0.05)
+Nifty 50,S&P 500,-0.0499,0.9602,No
+FTSE 100,S&P 500,1.1677,0.243,No
+FTSE 100,Nifty 50,1.1584,0.2468,No
+Gold,Oil,0.8776,0.3802,No
+Gold,S&P 500,-0.4361,0.6628,No

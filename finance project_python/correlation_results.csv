@@ -1,0 +1,11 @@
+Asset 1,Asset 2,Correlation (r),P-Value,Significant (p<0.05)
+^NSEI,^GSPC,0.318,0.0,Yes
+^NSEI,^FTSE,0.463,0.0,Yes
+^NSEI,GC=F,-0.007,0.753,No
+^NSEI,CL=F,0.055,0.008,Yes
+^GSPC,^FTSE,0.533,0.0,Yes
+^GSPC,GC=F,0.025,0.22,No
+^GSPC,CL=F,0.14,0.0,Yes
+^FTSE,GC=F,-0.018,0.389,No
+^FTSE,CL=F,0.12,0.0,Yes
+GC=F,CL=F,0.04,0.053,No
