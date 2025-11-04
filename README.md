@@ -37,7 +37,8 @@ The project integrates **Python**, **MySQL**, and **Power BI** for a complete an
 
 3. **Visualization with Power BI**  
    - Built an interactive dashboard that includes:  
-     - **Portfolio Optimization Pie Chart** — showing the ideal asset allocation.  
+     - **Portfolio Optimization Pie Chart** — showing the ideal asset allocation.
+        
      - **Cumulative Performance Trend Chart** — highlighting long-term growth of each asset.  
 
 ---
