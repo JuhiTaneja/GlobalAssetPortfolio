@@ -40,7 +40,8 @@ The project integrates **Python**, **MySQL**, and **Power BI** for a complete an
      - **Portfolio Optimization Pie Chart** — showing the ideal asset allocation.
      - ![Portfolio Optimization](https://github.com/JuhiTaneja/GlobalAssetPortfolio/blob/main/images/portfolio_optimisation.png?raw=true)
         
-     - **Cumulative Performance Trend Chart** — highlighting long-term growth of each asset.  
+     - **Cumulative Performance Trend Chart** — highlighting long-term growth of each asset.
+     - ![Trend Analysis](https://github.com/JuhiTaneja/GlobalAssetPortfolio/blob/main/images/Trend_Analysis.png?raw=true)
 
 ---
 
